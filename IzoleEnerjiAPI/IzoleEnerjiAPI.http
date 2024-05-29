@@ -1,0 +1,6 @@
+@IzoleEnerjiAPI_HostAddress = http://localhost:5032
+
+GET {{IzoleEnerjiAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
